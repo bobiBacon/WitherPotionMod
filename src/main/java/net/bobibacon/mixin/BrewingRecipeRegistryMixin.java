@@ -22,6 +22,7 @@ public class BrewingRecipeRegistryMixin {
         builder.registerPotionRecipe(ModPotions.Long_Wither_Potion, Items.GLOWSTONE_DUST,ModPotions.Strong_Wither_Potion);
         builder.registerPotionRecipe(ModPotions.Wither_Potion, Items.REDSTONE,ModPotions.Long_Wither_Potion);
         builder.registerPotionRecipe(ModPotions.Strong_Wither_Potion, Items.REDSTONE,ModPotions.Long_Wither_Potion);
+        builder.registerPotionRecipe(Potions.WATER, Items.WITHER_ROSE,Potions.MUNDANE);
 
 
 

@@ -1,0 +1,13 @@
+{
+  "item.minecraft.potion.effect.wither_potion": "Potion de Décomposition",
+  "item.minecraft.potion.effect.strong_wither_potion": "Potion de Décomposition",
+  "item.minecraft.potion.effect.long_wither_potion": "Potion de Décomposition",
+
+  "item.minecraft.splash_potion.effect.wither_potion": "Potion de Décomposition Jetable",
+  "item.minecraft.splash_potion.effect.long_wither_potion": "Potion de Décomposition Jetable",
+  "item.minecraft.splash_potion.effect.strong_wither_potion": "Potion de Décomposition Jetable",
+
+  "item.minecraft.lingering_potion.effect.wither_potion": "Potion de Décomposition Persistente",
+  "item.minecraft.lingering_potion.effect.long_wither_potion": "Potion de Décomposition Persistente",
+  "item.minecraft.lingering_potion.effect.strong_wither_potion": "Potion de Décomposition Persistente"
+}
