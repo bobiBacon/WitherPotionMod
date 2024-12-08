@@ -16,5 +16,6 @@ public class ModPotions {
     public static final RegistryEntry<Potion> Strong_Wither_Potion= Registry.registerReference(Registries.POTION, Identifier.of(WitherPotionMod.MOD_ID,"strong_wither_potion"),new Potion(new StatusEffectInstance(StatusEffects.WITHER,432,1)));
     public static final RegistryEntry<Potion> Long_Wither_Potion= Registry.registerReference(Registries.POTION, Identifier.of(WitherPotionMod.MOD_ID,"long_wither_potion"),new Potion(new StatusEffectInstance(StatusEffects.WITHER,1800,0)));
     public static void register(){
+
     }
 }
