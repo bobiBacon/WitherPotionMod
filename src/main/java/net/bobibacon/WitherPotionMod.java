@@ -3,6 +3,8 @@ package net.bobibacon;
 import net.bobibacon.potion.ModPotions;
 import net.fabricmc.api.ModInitializer;
 
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,6 +22,7 @@ public class WitherPotionMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModPotions.register();
+
 
 		LOGGER.info("Hello Fabric world!");
 	}
